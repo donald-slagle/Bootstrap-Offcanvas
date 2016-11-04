@@ -2,6 +2,7 @@
   "name": "offcanvas-bootstrap",
   "version": "2.4.0",
   "main": "dist/js/bootstrap.offcanvas.js",
+  "browser": "dist/js/bootstrap.offcanvas.js",
   "author": {
     "name": "Phil Hughes",
     "url": "http://www.iamphill.com"
